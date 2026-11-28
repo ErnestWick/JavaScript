@@ -6,7 +6,7 @@
  */
 
 let total=0, count=1;
-while(count <= 10)
+while(count <= 120)
 {
     total += count;
     count +=1;
